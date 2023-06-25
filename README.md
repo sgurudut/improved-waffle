@@ -1,4 +1,4 @@
-#time-series # model-comparision 
+# improved-waffle # time-series # model-comparision # arima # sarima
 
 Time Series Analysis: Comparing ARIMA and SARIMA Models.
 
