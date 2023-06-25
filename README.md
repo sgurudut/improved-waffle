@@ -2,7 +2,7 @@
 
 Time Series Analysis: Comparing ARIMA and SARIMA Models.
 
-The goal was to compare Autoregressive integrated moving average (Arima) and Seasonal Autoregressive integrated moving average (SARIMA) models. 
+The goal was to compare Autoregressive integrated moving average (ARIMA) and Seasonal Autoregressive integrated moving average (SARIMA) models. 
 
 - Gathered the data from Kaggle (https://www.kaggle.com/datasets/bilalwaseer/google-stocks-complete)
 - Performed tests (ADF and KPSS) to check if the series was stationary.
